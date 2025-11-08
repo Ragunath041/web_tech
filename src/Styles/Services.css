@@ -315,7 +315,7 @@
 .tech-tag {
   display: inline-block;
   background: linear-gradient(135deg, rgba(192, 160, 128, 0.1) 0%, rgba(232, 212, 184, 0.1) 100%);
-  color: #552586;
+  color: #f8f6f9;
   padding: 0.5rem 1rem;
   border-radius: 20px;
   font-size: 0.8rem;
